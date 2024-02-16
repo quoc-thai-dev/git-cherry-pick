@@ -1,0 +1,1 @@
+console.log("Create new test task 17!");
